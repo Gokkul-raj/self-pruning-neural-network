@@ -1,6 +1,5 @@
 # 🧠 Self-Pruning Neural Network Dashboard
 
-> AI Engineering Case Study — Dynamic Model Pruning using Learnable Gates
 
 ---
 
